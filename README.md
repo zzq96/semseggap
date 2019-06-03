@@ -9,7 +9,7 @@ This repository contains the codes and models described in the paper "[Geometry-
 
 ### Usage
 
-0. The project is implemented in Python 2.7, with the help of [PyTorch](https://pytorch.org) (version 0.3) and [TorchVision](https://pytorch.org/docs/0.2.0/) (version 0.2.0). Please setup the environment according to the [instructions](https://pytorch.org/get-started/previous-versions/) first.
+0. The project was implemented and tested with Python 2.7, [PyTorch](https://pytorch.org) (version 0.3) and [TorchVision](https://pytorch.org/docs/0.2.0/) (version 0.2.0) on Linux with GPUs. Please setup the environment according to the [instructions](https://pytorch.org/get-started/previous-versions/) first.
 1. Download the model with the [script](models/download.sh) under folder "models".
 2. Run the [main.py](main.py) to evaluate the performance on the NYUD-v2 dataset for semantic segmentation.
 3. You may optionally store the network predictions (color-coded results) by uncommenting line 70 in [main.py](main.py). The results will be saved to a folder "outimgs".
