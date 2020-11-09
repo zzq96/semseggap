@@ -1,3 +1,6 @@
+## clone from https://bitbucket.org/JianboJiao/semseggap/src/master/
+
+
 # Geometry-Aware Distillation for Indoor Semantic Segmentation
 
 By [Jianbo Jiao](https://jianbojiao.com/), [Yunchao Wei](https://weiyc.github.io/), [Zequn Jie](http://jiezequn.me/), Honghui Shi, [Rynson W. H. Lau](http://www.cs.cityu.edu.hk/~rynson/), [Thomas S. Huang](http://ifp-uiuc.github.io/).
